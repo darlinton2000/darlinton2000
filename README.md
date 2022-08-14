@@ -5,20 +5,27 @@
 
 ##
 
+<div>
+    <p><b>Formação Acadêmica:</b></p> 
+  <p>📚 Sistemas de informação - Estácio</p>
+</div>
+
+##
+
 <div align="center">
   <h2>Bem vindo ao meu perfil do GitHub</h2>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darlinton2000&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlinton2000&layout=compact&langs_count=7&theme=chartreuse-dark&hide=jupyter%20notebook"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=darlinton2000&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlinton2000&layout=compact&langs_count=7&theme=chartreuse-dark&hide=jupyter%20notebook"/>
 </div>
 
 ##
 
 <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg">
 </div>
 
