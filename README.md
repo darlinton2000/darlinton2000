@@ -1,4 +1,4 @@
-<h1 align="left">Olá Devs,</h1>
+<h1 align="left">Olá,</h1>
 <p>Me chamo Darlinton, tenho 25 anos. Trabalho na área de desenvolvimento de sistemas da Divisão de Tecnologia e Segurança da Informação e Comunicações da Academia Militar das Agulhas Negras.</p>
 
 ##
