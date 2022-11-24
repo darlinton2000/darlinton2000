@@ -13,7 +13,6 @@
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=darlinton2000&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlinton2000&layout=compact&langs_count=7&theme=chartreuse-dark&hide=jupyter%20notebook"/>
-  <img width="700em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=darlinton2000&theme=chartreuse-dark&border_radius=4&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" alt="darlinton2000"/>
 </div>
 
 ##
