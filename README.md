@@ -5,7 +5,7 @@
 
 <div>
     <p><b>Formação Acadêmica:</b></p> 
-  <p>📚 Sistemas de informação - Estácio</p>
+  <p>📚 Sistemas de informação - Universidade Estácio de Sá</p>
 </div>
 
 ##
