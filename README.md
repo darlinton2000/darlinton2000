@@ -1,5 +1,5 @@
 <h1 align="left">Olá,</h1>
-<p>Sou desenvolvedor back-end, com 4 anos de experiência em desenvolvimento web e infraestrutura. Trabalhei em algumas aplicações com grande tráfego (3 mil de visitas diárias). Possuo conhecimentos em PHP, Laravel, CSS, Bootstrap, JavaScript, Git, Docker, PostgreSQL e MySql. Tenho interesse em escalabilidade de aplicações, infraestrutura e melhores práticas de desenvolvimento.</p>
+<p>Sou desenvolvedor back-end, com 4 anos de experiência em desenvolvimento web e infraestrutura. Trabalhei em algumas aplicações com grande tráfego (80 mil de visitas diárias). Possuo conhecimentos em PHP, Laravel, CSS, Bootstrap, JavaScript, Git, Docker, PostgreSQL e MySql. Tenho interesse em escalabilidade de aplicações, infraestrutura e melhores práticas de desenvolvimento.</p>
 
 ##
 
@@ -13,7 +13,7 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darlinton2000&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlinton2000&layout=compact&langs_count=7&theme=chartreuse-dark&hide=jupyter%20notebook"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlinton2000&layout=compact&langs_count=8&theme=chartreuse-dark&hide=jupyter,blade,html,shell"/>
 </div>
 
 ##
