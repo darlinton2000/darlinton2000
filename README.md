@@ -5,8 +5,8 @@
 
 <div>
     <p><b>📚 Formação Acadêmica:</b></p> 
-    <p>Sistemas de informação (Graduação) - Universidade Estácio de Sá</p>
-    <p>Desenvolvimento Full Stack (Pós-Graduação) - Universidade Estácio de Sá</p>
+    <p>Sistemas de informação (Graduação) - Universidade Estácio de Sá - Agosto/2021</p>
+    <p>Desenvolvimento Full Stack (Pós-Graduação) - Universidade Estácio de Sá - Julho/2024</p>
 </div>
 
 ##
