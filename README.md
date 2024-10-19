@@ -1,5 +1,5 @@
 <h1 align="left">Olá,</h1>
-<p>Sou desenvolvedor back-end, com 4 anos de experiência em desenvolvimento web. Trabalhei em algumas aplicações com grande tráfego (80 mil de visitas diárias). Possuo conhecimentos em PHP, Laravel, React, Docker, PostgreSQL, MySql e Linux. Tenho interesse em escalabilidade de aplicações, infraestrutura e melhores práticas de desenvolvimento.</p>
+<p>Sou desenvolvedor back-end, com 5 anos de experiência em desenvolvimento web. Trabalhei em algumas aplicações com grande tráfego (80 mil de visitas diárias). Possuo conhecimentos em PHP, Laravel, React, Docker, PostgreSQL, MySql e Linux. Tenho interesse em escalabilidade de aplicações, infraestrutura e melhores práticas de desenvolvimento.</p>
 
 ##
 
